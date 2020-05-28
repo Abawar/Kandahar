@@ -54,7 +54,7 @@ for(int i=0;i<list.size();i++)
 {
 	System.out.println(list.get(i).getText());
 }
-//Part 5 ●	Navigate to the products.
+//Part 5 ●	NavigateJan to the products.
 driver.get("https://www.amazon.com/");
 driver.findElement(By.xpath("//img[@class='product-image']")).click();
 Thread.sleep(1000);
