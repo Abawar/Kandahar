@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-20T10:42:49 EDT" name="Default suite" finished-at="2020-05-20T10:42:49 EDT" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2020-05-20T10:42:49 EDT" name="Default test" finished-at="2020-05-20T10:42:49 EDT" duration-ms="57">
+      <class name="TestNGExercis.TSNGAnnotations">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="setUp" finished-at="2020-05-20T10:42:49 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="launchBrowser" finished-at="2020-05-20T10:42:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="enterURL" finished-at="2020-05-20T10:42:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="login" finished-at="2020-05-20T10:42:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testPosswordBox()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="testPosswordBox" finished-at="2020-05-20T10:42:49 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPosswordBox -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="logOut" finished-at="2020-05-20T10:42:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="login" finished-at="2020-05-20T10:42:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testUsernameBox()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="testUsernameBox" finished-at="2020-05-20T10:42:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsernameBox -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="logOut" finished-at="2020-05-20T10:42:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="closeBrowser" finished-at="2020-05-20T10:42:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteAllcookes()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="deleteAllcookes" finished-at="2020-05-20T10:42:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllcookes -->
+        <test-method is-config="true" signature="generateTestReport()[pri:0, instance:TestNGExercis.TSNGAnnotations@7fa98a66]" started-at="2020-05-20T10:42:49 EDT" name="generateTestReport" finished-at="2020-05-20T10:42:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestReport -->
+      </class> <!-- TestNGExercis.TSNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
