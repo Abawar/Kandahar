@@ -8,6 +8,7 @@ public class Alert_PopUp3 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		// jan
 		
 		System.setProperty("webdriver.chrome.driver","C://Users//Abdul//OneDrive//Desktop//Selenium//chromedriver_win32/chromedriver.exe");
         
